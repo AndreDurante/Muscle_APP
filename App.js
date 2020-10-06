@@ -7,7 +7,6 @@ import RootNavigator from './views/Navigator';
 import { backgroundColorStatusBar } from './colors'
 
 
-
 const store = configureStore()
 
 const TreinaoStatusBar = (props) => {
